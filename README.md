@@ -1,2 +1,2 @@
 # novelai_tags_note
-记录各种画图关键字
+记录各种画图关键字，已带上bilibili作者
